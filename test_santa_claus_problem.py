@@ -1,6 +1,11 @@
 """
 Test module for the Santa Claus Problem algorithm implementation in the restricted assignment case.
 
+Article: "The Santa Claus Problem"
+Authors: Nikhil Bansal and Maxim Sviridenko
+Link: https://dl.acm.org/doi/10.1145/1132516.1132557
+Programmers: Roey and Adiel
+
 In the restricted assignment case, each present j has a fixed value pj for all kids
 who can receive it, and 0 for kids who cannot receive it.
 
