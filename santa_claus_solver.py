@@ -3,6 +3,7 @@ Implementation of the Santa Claus Problem algorithm based on:
 "The Santa Claus Problem", by Bansal, Nikhil, and Maxim Sviridenko.
 Proceedings of the 38th Annual ACM Symposium on Theory of Computing, 2006
 https://dl.acm.org/doi/10.1145/1132516.1132557
+Programmers: Roey and Adiel
 
 The problem involves distributing presents (gifts) among kids (children), where each kid i has 
 a different valuation pij for each present j. The goal is to maximize the happiness 
